@@ -18,8 +18,8 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-cowsay -f eyes "SPACE TEAM" | lolcat
-figlet -f slant "SPACE TEAM" | lolcat
+cowsay -f eyes "no recode please" | lolcat
+figlet -f slant "Hanya Seseorang yang Burik" | lolcat
 echo "  <=====================[]====================>" | lolcat
 echo "  <=====[       Tools By MR4W Gans       ]=====>" | lolcat
 echo "  <=====[  Concact Me : +628995127374  ]=====>" | lolcat
