@@ -1,6 +1,5 @@
 # instabrute
-Script hack instagram by MR4W
-bahan2 
+Script hack instagram by MR4W bahan2 
 apt update && apt upgrade 
 pkg install bash  
 pkg install python2  
